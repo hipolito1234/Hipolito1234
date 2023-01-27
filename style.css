@@ -1,0 +1,49 @@
+
+
+
+
+#principal {
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+fieldset {
+    margin-bottom: 10px;
+}
+
+
+
+body {
+
+    background-color: whitesmoke;
+}
+
+
+
+#Nombre{
+    border:solid 20px;
+    padding: 8px;
+    
+}
+
+ legend{
+    border: solid 1px;
+    border-radius:15px;
+    background-color: grey;
+ }
+
+#mifoto {
+    margin: 5px;
+    border: solid 4px;
+}
+
+.contenedor {
+    margin-top: 30px;
+    display: flex;
+}
+
+.text {
+    padding-left: 25px;
+}
